@@ -17,8 +17,9 @@
             <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>
         </ul>
     </h3>
+    <hr/>
         - 😄 Pronouns: सर्वेश / SARVESH<br>
-        - ⚡ Fun fact: <em>Everyone of knows, if they do hardwork, follow passion with consistancy and persistency then they will successful, but who cares, No one do that.</em><br>
+        - ⚡ Fun fact: <em>Everyone of knows, if they do hard work, and follow passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
 <!--
 ### Hi there 👋
 **SAD0XER/SAD0XER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
