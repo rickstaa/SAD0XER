@@ -13,8 +13,8 @@
                     style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>Instagram: <a href="https://www.instagram.com/sad0xer"
                     style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>
+            <!--<li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
+            <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>-->
         </ul>
     </h3>
     <hr/>
