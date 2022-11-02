@@ -1,5 +1,5 @@
 [![@sad0xer's Holopin board](https://holopin.io/api/user/board?user=sad0xer)](https://holopin.io/@sad0xer)
-<h1 style="text-align:center">Hellow, I am SARVESH.</h1>
+<h1 style="text-align:center">Hello, I am SARVESH.</h1>
     <h3>
         - 🔭 I’m currently working on one college website project<br>
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
@@ -20,12 +20,11 @@
     <hr/>
         - 😄 Pronouns: सर्वेश / SARVESH<br>
         - ⚡ Fun fact: <em>Everyone of knows, if they do hard work, and follow passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
+
 <!--
 ### Hi there 👋
 **SAD0XER/SAD0XER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
