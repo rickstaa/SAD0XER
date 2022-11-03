@@ -4,7 +4,7 @@
         - 🔭 I’m currently working on one college website project<br>
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
             style="color:black; text-decoration:none;">@Apna College</a>.<br>
-        - 👯 I’m looking to collaborate on Telegram<br>
+        - 👯 I’m looking to collaborate on <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a><br>
         - 🤔 I’m looking for help with other curious learner and coders.<br>
         - 💬 Ask me about C, C++ and java<br>
         - 📫 How to reach me:
@@ -19,7 +19,7 @@
     </h3>
     <hr/>
         - 😄 Pronouns: सर्वेश / SARVESH<br>
-        - ⚡ Fun fact: <em>Everyone of knows, if they do hard work, and follow passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
+        - ⚡ Fun fact: <em>Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
 
 <!--
 ### Hi there 👋
