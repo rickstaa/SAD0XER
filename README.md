@@ -4,16 +4,16 @@
         - 🔭 I’m currently working on one college website project<br>
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
             style="color:black; text-decoration:none;">@Apna College</a>.<br>
-        - 👯 I’m looking to collaborate on <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a><br>
-        - 🤔 I’m looking for help with other curious learner and coders.<br>
+        - 👯 I’m looking to collaborate on <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
+        - 🤔 I’m looking for help with other curious learners and coders.<br>
         - 💬 Ask me about C, C++ and java<br>
         - 📫 How to reach me:
         <ul>
             <li>LinkedIn: <a href="https://www.linkedin.com/in/sadcoder"
                     style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <li>Instagram: <a href="https://www.instagram.com/sad0xer"
-                    style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <!--<li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
+            <li>SoloLearn: <a href="https://www.sololearn.com/profile/18241219" style="color:black; text-decoration:none;">@SAD0XER</a></li>
+            <!--<li>Instagram: <a href="https://www.instagram.com/sad0xer" style="color:black; text-decoration:none;">@SAD0XER</a></li>
+            <li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>-->
         </ul>
     </h3>
