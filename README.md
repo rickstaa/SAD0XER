@@ -8,7 +8,7 @@
         - 🤔 I’m looking for help with other curious learners and coders.<br>
         - 💬 Ask me about C, C++ and java<br>
         - 📫 How to reach me:
-        <ul style="list-style-type:square">
+        <ul style="list-style-type:square;">
             <li>LinkedIn: <a href="https://www.linkedin.com/in/sadcoder" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>SoloLearn: <a href="https://www.sololearn.com/profile/18241219" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <!--<li>Instagram: <a href="https://www.instagram.com/sad0xer" style="color:black; text-decoration:none;">@SAD0XER</a></li>
