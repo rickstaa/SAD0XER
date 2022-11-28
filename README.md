@@ -1,4 +1,8 @@
 [![@sad0xer's Holopin board](https://holopin.io/api/user/board?user=sad0xer)](https://holopin.io/@sad0xer)
+<br><hr/><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer)](https://github.com/SAD0XER/SAD0XER/edit/main/README.md)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true)
+
 <h1 style="text-align:center">Hello, I am SARVESH.</h1>
     <h3>
         - 🔭 I’m currently working on one college website project<br>
@@ -8,13 +12,13 @@
         - 🤔 I’m looking for help with other curious learners and coders.<br>
         - 💬 Ask me about C, C++ and java<br>
         - 📫 How to reach me:
-        <ul>
+    <ul>
             <li>LinkedIn: <a href="https://www.linkedin.com/in/sadcoder" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>SoloLearn: <a href="https://www.sololearn.com/profile/18241219" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <!--<li>Instagram: <a href="https://www.instagram.com/sad0xer" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>-->
-        </ul>
+    </ul>
     </h3>
     <hr/>
         - 😄 Pronouns: सर्वेश / SARVESH<br>
