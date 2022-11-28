@@ -1,6 +1,6 @@
 [![@sad0xer's Holopin board](https://holopin.io/api/user/board?user=sad0xer)](https://holopin.io/@sad0xer)
 <br><hr/><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true)](https://github.com/SAD0XER/SAD0XER/edit/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark)](https://github.com/SAD0XER/SAD0XER/edit/main/README.md)
 <br><hr/><br>
 
 <h1 style="text-align:center">Hello, I am SARVESH.</h1>
