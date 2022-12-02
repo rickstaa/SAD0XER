@@ -5,14 +5,14 @@
 <!-- @sad0xer's GitHub Statistics-->
 
 <h1>GitHub statistics</h1><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAD0XER&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark)](https://github.com/SAD0XER/SAD0XER)
 
 
 <!--@sad0xer's GitHub Repositories-->
 <br><h1>GitHub Repositories</h1><br>
 <a href="https://github.com/SAD0XER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
-</a>
+</a><br>
 <a href="https://github.com/SAD0XER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
 </a><br>
