@@ -2,10 +2,10 @@
 [![@sad0xer's Holopin board](https://holopin.io/api/user/board?user=sad0xer)](https://holopin.io/@sad0xer)
 <br>
 
-<!-- @sad0xer's GitHub statistics-->
+<!-- @sad0xer's GitHub Statistics-->
 
 <h1>GitHub statistics</h1><br>
-[![sad0xer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&align=center)](https://github.com/SAD0XER)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAD0XER&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--@sad0xer's GitHub Repositories-->
