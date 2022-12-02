@@ -1,7 +1,30 @@
+<!--@sad0xer's Holopin Board-->
 [![@sad0xer's Holopin board](https://holopin.io/api/user/board?user=sad0xer)](https://holopin.io/@sad0xer)
-<br><hr/><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark)](https://github.com/SAD0XER/SAD0XER/edit/main/README.md)
-<br><hr/><br>
+<br>
+
+<!-- @sad0xer's GitHub statistics-->
+
+<h1>GitHub statistics</h1><br>
+[![sad0xer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&align=center)](https://github.com/SAD0XER)
+
+
+<!--@sad0xer's GitHub Repositories-->
+<br><h1>GitHub Repositories</h1><br>
+<a href="https://github.com/SAD0XER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/SAD0XER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
+</a><br>
+<a href="https://github.com/SAD0XER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=vision-friendly-dark" />
+</a>
+
+<!--@sad0xer's GitHub Top Languages-->
+<br><h1>GitHub Top Languages</h1><br>
+[![sad0xer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=tokyonight)](https://github.com/SAD0XER)
+
+
 
 <h1 style="text-align:center">Hello, I am SARVESH.</h1>
     <h3>
