@@ -3,9 +3,9 @@
 <br>
 
 <!-- @sad0xer's GitHub Statistics-->
-
 <h1>GitHub statistics</h1><br>
-[![sad0xer's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark)](https://github.com/SAD0XER/SAD0XER)
+
+[![sad0xer's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/SAD0XER/SAD0XER)
 
 <!--@sad0xer's GitHub Repositories-->
 <br><h1>GitHub Repositories</h1><br>
@@ -20,7 +20,7 @@
 </a>
 
 <!--@sad0xer's GitHub Top Languages-->
-<br><h1>GitHub Top Languages</h1><br>
+<br><h1>Top Languages</h1><br>
 [![sad0xer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=tokyonight)](https://github.com/SAD0XER)
 
 
