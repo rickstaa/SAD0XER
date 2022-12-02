@@ -11,7 +11,7 @@
 <br><h1>GitHub Repositories</h1><br>
 <a href="https://github.com/SAD0XER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
-</a>
+</a><br><br>
 <a href="https://github.com/SAD0XER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
 </a><br><br>
