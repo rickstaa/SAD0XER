@@ -9,13 +9,13 @@
 
 <!--@sad0xer's GitHub Repositories-->
 <br><h1>GitHub Repositories</h1><br>
-<a href="https://github.com/SAD0XER">
+<a href="https://github.com/SAD0XER/SAD0XER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
 </a><br><br>
-<a href="https://github.com/SAD0XER">
+<a href="https://github.com/SAD0XER/ALPHAit-JavaCourse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
 </a><br><br>
-<a href="https://github.com/SAD0XER">
+<a href="https://github.com/SAD0XER/EASY-TO-C0DE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=vision-friendly-dark" />
 </a>
 
