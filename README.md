@@ -13,10 +13,10 @@
   <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
 </a> -->
 <a href="https://github.com/SAD0XER/ALPHAit-JavaCourse">
-  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=nord" />
 </a>
 <a href="https://github.com/SAD0XER/EASY-TO-C0DE">
-  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=darcula" />
 </a>
 
 <!--@sad0xer's GitHub Top Languages-->
