@@ -5,7 +5,7 @@
 <!-- @sad0xer's GitHub Statistics-->
 <h1>GitHub Statistics</h1><br>
 
-[![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true)](https://github.com/SAD0XER)
+[![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true)](https://github.com/SAD0XER)
 
 <!--@sad0xer's GitHub Repositories-->
 <br><h1>Top Repositories</h1><br>
@@ -32,7 +32,7 @@
             style="color:black; text-decoration:none;">@Apna College</a>.<br>
         - 👯 I’m looking to collaborate on GitHub and </a><a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
         - 🤔 I’m looking for help with other curious learners and coders.<br>
-        - 💬 Ask me about C, C++ and java<br>
+        - 💬 Ask me about C, C++ and java.<br>
         - 📫 How to reach me:
     <ul>
             <li>LinkedIn: <a href="https://www.linkedin.com/in/sadcoder" style="color:black; text-decoration:none;">@SAD0XER</a></li>
