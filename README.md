@@ -10,18 +10,18 @@
 <!--@sad0xer's GitHub Repositories-->
 <br><h1>Top Repositories</h1><br>
 <!-- <a href="https://github.com/SAD0XER/SAD0XER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
 </a> -->
 <a href="https://github.com/SAD0XER/ALPHAit-JavaCourse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/SAD0XER/EASY-TO-C0DE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=vision-friendly-dark" />
 </a>
 
 <!--@sad0xer's GitHub Top Languages-->
 <br><h1>Top Languages</h1><br>
-[![sad0xer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=tokyonight)](https://github.com/SAD0XER)
+[![sad0xer's Top Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=tokyonight)](https://github.com/SAD0XER)
 
 
 
@@ -30,7 +30,7 @@
         - 🔭 I’m currently working on one college website project<br>
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
             style="color:black; text-decoration:none;">@Apna College</a>.<br>
-        - 👯 I’m looking to collaborate on <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
+        - 👯 I’m looking to collaborate on GitHub and </a><a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
         - 🤔 I’m looking for help with other curious learners and coders.<br>
         - 💬 Ask me about C, C++ and java<br>
         - 📫 How to reach me:
@@ -43,7 +43,7 @@
     </ul>
     </h3>
     <hr/>
-        - 😄 Pronouns: सर्वेश / SARVESH<br>
+        - 😄 Pronouns: सर्वेश / SARVESH.<br>
         - ⚡ Fun fact: <em>Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
 
 <!--
