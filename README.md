@@ -25,8 +25,8 @@
 
 
 
-<h1 style="text-align:center">Hello, I am SARVESH.</h1>
-    <h3>
+<h5 style="text-align:center">Hello, I am SARVESH.</h5>
+    <h6>
         - 🔭 I’m currently working on one college website project<br>
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
             style="color:black; text-decoration:none;">@Apna College</a>.<br>
@@ -41,7 +41,7 @@
             <li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
             <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>-->
     </ul>
-    </h3>
+    </h6>
     <hr/>
         - 😄 Pronouns: सर्वेश / SARVESH.<br>
         - ⚡ Fun fact: <em>Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
