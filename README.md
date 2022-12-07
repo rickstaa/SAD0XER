@@ -27,7 +27,7 @@
 
 <h5 style="text-align:center">Hello, I am SARVESH.</h5>
     <h6>
-        - 🔭 I’m currently working on one college website project<br>
+        - 🔭 I’m currently working on one college website project.<br>
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
             style="color:black; text-decoration:none;">@Apna College</a>.<br>
         - 👯 I’m looking to collaborate on GitHub and </a><a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
