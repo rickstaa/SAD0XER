@@ -36,7 +36,7 @@
 <details>
   <summary><h3 style="user-select: none">:zap:Top Languages</h3></summary>
   
-[![sad0xer's Top Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&border_radius=30.0)](https://github.com/SAD0XER)
+[![sad0xer's Top Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true)](https://github.com/SAD0XER)
   <!--&theme=tokyonight-->
 </details>
 <hr/>
