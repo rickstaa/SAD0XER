@@ -5,7 +5,7 @@
 <!-- @sad0xer's GitHub Statistics-->
 <!-- <h1>GitHub Statistics</h1><br> -->
 <details>
-  <summary><h3>:zap:GitHub Statistics</h3></summary>
+  <summary>📊<b>GitHub Statistics:</b></summary>
   
   [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=true&border_radius=0.0)](https://github.com/SAD0XER)
 </details>
@@ -14,14 +14,14 @@
 <!-- @sad0xer's GitHub Repositories-->
 <!-- <br><h1>Top Repositories</h1><br> -->
 <details>
-  <summary><h3>:zap:Top Repositories</h3></summary>
+  <summary>⚛️<b>Top Repositories:</b></summary>
   
 <a href="https://github.com/SAD0XER/ALPHAit-JavaCourse">
   <img align="center" alt="ALPHAit-JavaCourse" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
   <!--&theme=nord-->
   </a>
 <a href="https://github.com/SAD0XER/EASY-TO-C0DE">
-  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14" />
   <!--&theme=darcula-->
   </a>
 <!-- <a href="https://github.com/SAD0XER/SAD0XER">
@@ -33,7 +33,7 @@
 <!-- @sad0xer's GitHub Top Languages-->
 <!-- <br><h1>Top Languages</h1><br> -->
 <details>
-  <summary><h3>:zap:Top Languages</h3></summary>
+  <summary>🔝<b>Top Languages:</b></summary>
   
 [![sad0xer's Top Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true)](https://github.com/SAD0XER)
   <!--&theme=tokyonight-->
@@ -43,7 +43,7 @@
 
 <!-- About Me -->
 <details>
-  <summary><h3>:zap:About me</h3></summary>
+  <summary>🎯<b>About me:</b></summary>
   
 <h5>Hello, I am 😃SARVESH🤩.</h5>
     <h6>
@@ -63,8 +63,8 @@
     </ul>
     </h6>
     <hr/>
-        - 😄 Pronouns: सर्वेश / SARVESH.<br>
-        - ⚡ Fun fact: <em>Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
+        - 😄 Pronouns me as सर्वेश / SARVESH.<br>
+        - 😂 Fun fact: <em>Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
 
 </details>
 
