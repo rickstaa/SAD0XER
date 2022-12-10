@@ -21,7 +21,7 @@
   <!--&theme=nord-->
   </a>
 <a href="https://github.com/SAD0XER/EASY-TO-C0DE">
-  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14" />
+  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
   <!--&theme=darcula-->
   </a>
 <!-- <a href="https://github.com/SAD0XER/SAD0XER">
