@@ -2,20 +2,27 @@
 [![@sad0xer's Holopin board](https://holopin.io/api/user/board?user=sad0xer)](https://holopin.io/@sad0xer)
 <br>
 
-<!-- @sad0xer's GitHub Statistics-->
-<!-- <h1>GitHub Statistics</h1><br> -->
+<!-- GitHub Statistics -->
 <details>
   <summary>📊<b>GitHub Statistics:</b></summary>
   
+  <!-- @sad0xer's GitHub Statistics by @anuraghazra-->
   [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=true&border_radius=0.0)](https://github.com/SAD0XER)
+  
+  
+<!--   Github Profile Summary Card -->
+<!--   <img border="0" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=default" /> -->
+  
+<!--   Github Profile Trophy -->
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=sad0xer&margin-w=5&theme=radical"> -->
 </details>
 
   
-<!-- @sad0xer's GitHub Repositories-->
-<!-- <br><h1>Top Repositories</h1><br> -->
+<!-- Top Repositories -->
 <details>
   <summary>⚛️<b>Top Repositories:</b></summary>
   
+  <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
 <a href="https://github.com/SAD0XER/ALPHAit-JavaCourse">
   <img align="center" alt="ALPHAit-JavaCourse" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
   <!--&theme=nord-->
@@ -30,12 +37,12 @@
 </details>
 
 
-<!-- @sad0xer's GitHub Top Languages-->
-<!-- <br><h1>Top Languages</h1><br> -->
+<!-- Top Languages -->
 <details>
-  <summary>🔝<b>Top Languages:</b></summary>
+  <summary>🔝<b>Top Most Used Languages:</b></summary>
   
-[![sad0xer's Top Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&layout=compact&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true)](https://github.com/SAD0XER)
+  <!-- @sad0xer's GitHub Top Languages by @anuraghazra-->
+  [![sad0xer's Top Most Used Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true&show_icons=true)](https://github.com/SAD0XER)
   <!--&theme=tokyonight-->
 </details>
 
