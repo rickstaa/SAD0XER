@@ -58,7 +58,8 @@
         - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
             style="color:black; text-decoration:none;">@Apna College</a> <a href="https://github.com/shradha-khapra"
             style="color:black; text-decoration:none;"> (Shradha Khapra)</a>.<br>
-        - 👯 I’m looking to collaborate on GitHub and </a><a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
+        - 👯 I’m looking to collaborate on <a href="https://github.com"
+            style="color:black; text-decoration:none;">GitHub</a> and </a><a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
         - 🤔 I’m looking for help with other curious learners and coders.<br>
         - 💬 Ask me about C, C++ and java.<br>
         - 📫 How to reach me:
