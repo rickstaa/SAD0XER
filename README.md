@@ -27,12 +27,8 @@
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
   [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
   <!--&theme=nord-->
-  
-  [![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14&align="center")](https://github.com/SAD0XER/EASY-TO-C0DE)
-<a href="https://github.com/SAD0XER/EASY-TO-C0DE">
-  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
+  [![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
   <!--&theme=darcula-->
-  </a>
 </details>
 
 
@@ -47,9 +43,9 @@
 
 ___
 <!-- About Me -->
-<!-- <details open>
-  <summary>🎯<b>About me:</b></summary> -->
-  ### 🎯 About me:
+<details>
+  <summary>🎯<b>About me:</b></summary>
+  
   #### Hello, I am **😃SARVESH🤩**.
   
   - 🔭 I’m currently working on one college website project.
@@ -65,10 +61,9 @@ ___
 
   - 😄 Pronouns me as सर्वेश / SARVESH.
   - 😂 **Fun fact:** _Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!_
-<!-- </details> -->
+</details>
 
 
-<!-- ________________________________________________________________________________________________________________________ -->
 <!--
 ### Hi there 👋
 **SAD0XER/SAD0XER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
