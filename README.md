@@ -3,7 +3,7 @@
 <br>
 
 <!-- GitHub Statistics -->
-<details>
+<details open>
   <summary>📊<b>GitHub Statistics:</b></summary>
   
   <!-- @sad0xer's GitHub Statistics by @anuraghazra-->
@@ -17,65 +17,56 @@
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=sad0xer&margin-w=5&theme=radical"> -->
 </details>
 
-  
+
 <!-- Top Repositories -->
-<details>
+<details open>
   <summary>⚛️<b>Top Repositories:</b></summary>
+<!--   [![alt_txt](img_src)](href) -->
+  
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
-<a href="https://github.com/SAD0XER/ALPHAit-JavaCourse">
-  <img align="center" alt="ALPHAit-JavaCourse" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
+  [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
   <!--&theme=nord-->
-  </a>
+  
+  [![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14&align="center")](https://github.com/SAD0XER/EASY-TO-C0DE)
 <a href="https://github.com/SAD0XER/EASY-TO-C0DE">
   <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14" />
   <!--&theme=darcula-->
   </a>
-<!-- <a href="https://github.com/SAD0XER/SAD0XER">
-  <img align="center" src="https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=SAD0XER&theme=vision-friendly-dark" />
-</a> -->
 </details>
 
 
 <!-- Top Languages -->
-<details>
+<details open>
   <summary>🔝<b>Top Most Used Languages:</b></summary>
   
   <!-- @sad0xer's GitHub Top Languages by @anuraghazra-->
-  [![sad0xer's Top Most Used Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true&show_icons=true)](https://github.com/SAD0XER)
+  [![sad0xer's Top Most Used Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true&show_icons=true&layout=compact)](https://github.com/SAD0XER)
   <!--&theme=tokyonight-->
 </details>
 
-
-
+___
 <!-- About Me -->
-<details>
-  <summary>🎯<b>About me:</b></summary>
+<!-- <details open>
+  <summary>🎯<b>About me:</b></summary> -->
+  ### 🎯 About me:
+  #### Hello, I am **😃SARVESH🤩**.
   
-<h5>Hello, I am 😃SARVESH🤩.</h5>
-    <h6>
-        - 🔭 I’m currently working on one college website project.<br>
-        - 🌱 I’m currently learning Java By <a href="https://github.com/apna-college"
-            style="color:black; text-decoration:none;">@Apna College</a> <a href="https://github.com/shradha-khapra"
-            style="color:black; text-decoration:none;"> (Shradha Khapra)</a>.<br>
-        - 👯 I’m looking to collaborate on <a href="https://github.com"
-            style="color:black; text-decoration:none;">GitHub</a> and </a><a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">Telegram</a>.<br>
-        - 🤔 I’m looking for help with other curious learners and coders.<br>
-        - 💬 Ask me about C, C++ and java.<br>
-        - 📫 How to reach me:
-    <ul>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/sadcoder" style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <li>SoloLearn: <a href="https://www.sololearn.com/profile/18241219" style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <!--<li>Instagram: <a href="https://www.instagram.com/sad0xer" style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <li>Telegram: <a href="https://t.me/SAD0XER" style="color:black; text-decoration:none;">@SAD0XER</a></li>
-            <li>Telegram Channel: <a href="https://t.me/PARA_C0DER" style="color:black; text-decoration:none;">@PARA_C0DER</a></li>-->
-    </ul>
-    </h6>
-    <hr/>
-        - 😄 Pronouns me as सर्वेश / SARVESH.<br>
-        - 😂 Fun fact: <em>Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!</em><br>
+  - 🔭 I’m currently working on one college website project.
+  - 🌱 I’m currently learning Java By [Apna College](https://github.com/apna-college) ([**Shradha Khapra**](https://github.com/shradha-khapra)).
+  - 👯 I’m looking to collaborate on [Github](https://github.com) and [Telegram](https://t.me/PARA_C0DER).
+  - 🤔 I’m looking for help with other curious learners.
+  - 💬 Ask me about **C**, **C++** and **java**.
+  - 📫 **How to reach me:**
+    - **LinkedIn:** [_@SAD0XER_](https://www.linkedin.com/in/sadcoder)
+    - **SoloLearn:** [_@SAD0XER_](https://www.sololearn.com/profile/18241219)
+    - **Telegram:** [_@SAD0XER_](https://t.me/SAD0XER)
+    - **Telegram Channel:** [_@PARA_C0DER_](https://t.me/PARA_C0DER)
 
-</details>
+  - 😄 Pronouns me as सर्वेश / SARVESH.
+  - 😂 **Fun fact:** _Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!_
+<!-- </details> -->
+
 
 <!-- ________________________________________________________________________________________________________________________ -->
 <!--
