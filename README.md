@@ -3,55 +3,68 @@
 <br>
 
 <!-- GitHub Statistics -->
-<details open>
-  <summary>📊<b>GitHub Statistics:</b></summary>
+<details>
+  <summary>📈📉<b>GitHub Statistics:</b></summary>
+
+<!-- Github Statistics -->
+  ![Github Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sad0xer&theme=github_dark)
   
-  <!-- @sad0xer's GitHub Statistics by @anuraghazra-->
-  [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=true&border_radius=0.0)](https://github.com/SAD0XER)
-  
+<!-- @sad0xer's GitHub Statistics by @anuraghazra-->
+  [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)](https://github.com/SAD0XER)
   
 <!--   Github Profile Summary Card -->
-<!--   <img border="0" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=default" /> -->
-  
-<!--   Github Profile Trophy -->
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=sad0xer&margin-w=5&theme=radical"> -->
+  ![Github Profile Summary Card by ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=github_dark)
+
 </details>
 
 
 <!-- Top Repositories -->
-<details open>
+<details>
   <summary>⚛️<b>Top Repositories:</b></summary>
-<!--   [![alt_txt](img_src)](href) -->
-  
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
   [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
   <!--&theme=nord-->
+  
   [![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
   <!--&theme=darcula-->
 </details>
 
 
 <!-- Top Languages -->
-<details open>
-  <summary>🔝<b>Top Most Used Languages:</b></summary>
+<details>
+  <summary>🔝<b>GitHub Used Languages:</b></summary>
   
-  <!-- @sad0xer's GitHub Top Languages by @anuraghazra-->
-  [![sad0xer's Top Most Used Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=true&border_radius=30.0&title_color=bb5b14&hide_title=true&show_icons=true&layout=compact)](https://github.com/SAD0XER)
-  <!--&theme=tokyonight-->
+<!-- GitHub Top Languages by Repository -->
+  ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sad0xer&theme=github_dark)
+  
+<!-- @sad0xer's GitHub Top Languages by @anuraghazra-->
+  [![sad0xer's Top Most Used Languages](https://github-readme-stats-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)](https://github.com/SAD0XER)
+<!--&theme=tokyonight-->
+  
+<!-- GitHub Top Languages by Commit -->
+  ![Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sad0xer&theme=github_dark)
+  
 </details>
 
-___
+<!-- GitHub Commit Statistics -->
+<details>
+  <summary>📊<b>GitHub Commit Statistics:</b></summary>
+  
+  <!-- GitHub Commit Statistics -->
+  ![GitHub Commit Statistics](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sad0xer&theme=github_dark&utcOffset=8)
+</details>
+
 <!-- About Me -->
 <details>
   <summary>🎯<b>About me:</b></summary>
   
   #### Hello, I am **😃SARVESH🤩**.
   
-  - 🔭 I’m currently working on one college website project.
+  - 🔭 I’m currently working on one **college website project**.
   - 🌱 I’m currently learning Java By [Apna College](https://github.com/apna-college) ([**Shradha Khapra**](https://github.com/shradha-khapra)).
   - 👯 I’m looking to collaborate on [Github](https://github.com) and [Telegram](https://t.me/PARA_C0DER).
-  - 🤔 I’m looking for help with other curious learners.
+  - 🤔 I’m looking for help with other **curious learners**.
   - 💬 Ask me about **C**, **C++** and **java**.
   - 📫 **How to reach me:**
     - **LinkedIn:** [_@SAD0XER_](https://www.linkedin.com/in/sadcoder)
@@ -63,7 +76,7 @@ ___
   - 😂 **Fun fact:** _Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!_
 </details>
 
-
+<!--   [![alt_txt](img_src)](href) -->
 <!--
 ### Hi there 👋
 **SAD0XER/SAD0XER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
