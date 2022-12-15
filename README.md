@@ -76,6 +76,15 @@
   - 😂 **Fun fact:** _Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!_
 </details>
 
+<!-- Favorite Peoples and Organizations -->
+<details open>
+  <summary>🤩<b>My Favourite</b></summary>
+  1.[CodeWithHarry](https://github.com/CodeWithHarry)  
+  2.[Haris Ali Khan](https://github.com/haris989)  
+  3.[Shradha Khapra](https://github.com/shradha-khapra)
+ 
+</details>
+
 <!--   [![alt_txt](img_src)](href) -->
 <!--
 ### Hi there 👋
