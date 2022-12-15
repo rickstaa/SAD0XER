@@ -13,7 +13,7 @@
   [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)](https://github.com/SAD0XER)
   
 <!--   Github Profile Summary Card -->
-  ![Github Profile Summary Card by ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=github_dark)
+  ![Github Profile Summary Card by Casper](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=github_dark)
 
 </details>
 
@@ -28,6 +28,10 @@
   
   [![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
   <!--&theme=darcula-->
+  
+  #### #️⃣ Forked Repositories: 
+  [![Github-Readme-Statistics](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Statistics&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/Github-Readme-Statistics)
+  
 </details>
 
 
@@ -79,9 +83,9 @@
 <!-- Favorite Peoples and Organizations -->
 <details open>
   <summary>🤩<b>My Favourite</b></summary>
-  1.[CodeWithHarry](https://github.com/CodeWithHarry)  
-  2.[Haris Ali Khan](https://github.com/haris989)  
-  3.[Shradha Khapra](https://github.com/shradha-khapra)
+  
+  1. [CodeWithHarry](https://github.com/CodeWithHarry) ([Haris Ali Khan](https://github.com/haris989))
+  2. [Shradha Khapra](https://github.com/shradha-khapra)
  
 </details>
 
