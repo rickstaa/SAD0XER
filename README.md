@@ -23,10 +23,7 @@
   <summary>⚛️<b>Top Repositories:</b></summary>
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
-  [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
-  <!--&theme=nord-->
-  
-  [![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
+  [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)<!--&theme=nord-->[![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
   <!--&theme=darcula-->
   
   #### #️⃣ Forked Repositories: 
@@ -66,7 +63,7 @@
   #### Hello, I am **😃SARVESH🤩**.
   
   - 🔭 I’m currently working on one **college website project**.
-  - 🌱 I’m currently learning Java By [Apna College](https://github.com/apna-college) ([**Shradha Khapra**](https://github.com/shradha-khapra)).
+  - 🌱 I’m currently learning Java From [**Shradha Khapra**](https://github.com/shradha-khapra).
   - 👯 I’m looking to collaborate on [Github](https://github.com) and [Telegram](https://t.me/PARA_C0DER).
   - 🤔 I’m looking for help with other **curious learners**.
   - 💬 Ask me about **C**, **C++** and **java**.
@@ -82,10 +79,12 @@
 
 <!-- Favorite Peoples and Organizations -->
 <details open>
-  <summary>🤩<b>My Favourite</b></summary>
+  <summary>🤩<b>My Favourites🤩</b></summary>
   
-  1. [CodeWithHarry](https://github.com/CodeWithHarry) ([Haris Ali Khan](https://github.com/haris989))
-  2. [Shradha Khapra](https://github.com/shradha-khapra)
+  1. [**CodeWithHarry**](https://github.com/CodeWithHarry) ([Haris Ali Khan](https://github.com/haris989))
+  2. [**Shradha Khapra**](https://github.com/shradha-khapra)
+  3. [**Anurag Hazra**](https://github.com/anuraghazra) 
+  4. [**vn7n24fzkq (Casper)**](https://github.com/vn7n24fzkq)
  
 </details>
 
