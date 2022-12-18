@@ -3,8 +3,8 @@
 <br>
 
 <!-- GitHub Statistics -->
-<details>
-  <summary>📈📉<b>GitHub Statistics:</b></summary>
+<details align="center">
+  <summary><b>📈GitHub Statistics📉</b></summary>
 
 <!-- Github Statistics by Casper -->
   [![Github Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
@@ -22,22 +22,22 @@
 
 
 <!-- Top Repositories -->
-<details>
+<details align="center">
   <summary>⚛️<b>Top Repositories:</b></summary>
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
   [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)<!--&theme=nord-->[![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
   <!--&theme=darcula-->
   
-  #### #️⃣ Forked Repositories: 
+  #### #️⃣Forked Repositories#️⃣
   [![Github-Readme-Statistics](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Statistics&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/Github-Readme-Statistics)
   
 </details>
 
 
 <!-- Top Languages -->
-<details>
-  <summary>🔝<b>GitHub Used Languages:</b></summary>
+<details align="center">
+  <summary><b>🗣️Used Languages🗣️</b></summary>
   
 <!-- GitHub Top Languages by Repository -->
   ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sad0xer&theme=github_dark)
@@ -52,16 +52,16 @@
 </details>
 
 <!-- GitHub Commit Statistics -->
-<details>
-  <summary>📊<b>GitHub Commit Statistics:</b></summary>
+<details align="center">
+  <summary><b>📊Commit Statistics📊</b></summary>
   
   <!-- GitHub Commit Statistics -->
   ![GitHub Commit Statistics](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sad0xer&theme=github_dark&utcOffset=8)
 </details>
 
 <!-- About Me -->
-<details>
-  <summary>🎯<b>About me:</b></summary>
+<details align="center">
+  <summary><b>🎯About me🎯</b></summary>
   
   #### Hello, I am **😃SARVESH🤩**.
   
@@ -81,16 +81,17 @@
 </details>
 
 <!-- Favorite Peoples and Organizations -->
-<details open>
+<details align="center">
   <summary>🤩<b>My Favourites🤩</b></summary>
   
   1. [**CodeWithHarry**](https://github.com/CodeWithHarry) ([Haris Ali Khan](https://github.com/haris989))
   2. [**Shradha Khapra**](https://github.com/shradha-khapra)
-  3. [**Anurag Hazra**](https://github.com/anuraghazra) 
-  4. [**vn7n24fzkq (Casper)**](https://github.com/vn7n24fzkq)
  
 </details>
 
+---
+###### Statistics credit goes to: [**Anurag Hazra**](https://github.com/anuraghazra), [**vn7n24fzkq (Casper)**](https://github.com/vn7n24fzkq), [**DenverCoder1**](https://github.com/DenverCoder1), [**Ashutosh00710**](https://github.com/Ashutosh00710)
+---
 <!--   [![alt_txt](img_src)](href) -->
 <!--
 ### Hi there 👋
