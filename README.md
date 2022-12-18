@@ -23,7 +23,7 @@
 
 <!-- Top Repositories -->
 <details align="center">
-  <summary>⚛️<b>Top Repositories:</b></summary>
+  <summary><b>⚛️My Top Repositories⚛️</b></summary>
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
   [![ALPHAit-JavaCourse](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/ALPHAit-JavaCourse)<!--&theme=nord-->[![EASY-TO-C0DE](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=true&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/EASY-TO-C0DE)
