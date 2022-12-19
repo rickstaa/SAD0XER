@@ -60,7 +60,7 @@
 </details>
 
 <!-- About Me -->
-<details align="center">
+<details open>
   <summary><b>🎯About me🎯</b></summary>
   
   #### Hello, I am **😃SARVESH🤩**.
@@ -76,7 +76,7 @@
     - **Telegram:** [_@SAD0XER_](https://t.me/SAD0XER)
     - **Telegram Channel:** [_@PARA_C0DER_](https://t.me/PARA_C0DER)
 
-  - 😄 Pronouns me as सर्वेश / SARVESH.
+  - 😄 Pronouns me as **सर्वेश** / SARVESH.
   - 😂 **Fun fact:** _Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!_
 </details>
 
