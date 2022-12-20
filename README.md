@@ -60,7 +60,7 @@
 </details>
 
 <!-- About Me -->
-<details open>
+<details align="left"; open>
   <summary><b>🎯About me🎯</b></summary>
   
   #### Hello, I am **😃SARVESH🤩**.
@@ -81,7 +81,7 @@
 </details>
 
 <!-- Favorite Peoples and Organizations -->
-<details align="center">
+<details align="left">
   <summary>🤩<b>My Favourites🤩</b></summary>
   
   1. [**CodeWithHarry**](https://github.com/CodeWithHarry) ([Haris Ali Khan](https://github.com/haris989))
