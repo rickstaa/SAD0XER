@@ -16,7 +16,7 @@
   [![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
   
 <!-- GitHub Readme Streak Stats -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sad0xer&theme=dark&hide_border=true&border_radius=100.0&background=FFFFFF00)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sad0xer&theme=dark&hide_border=true&border_radius=100.0&background=FFFFFF00&locale=en)](https://git.io/streak-stats)
   
 </details>
 
