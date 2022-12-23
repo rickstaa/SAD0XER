@@ -32,6 +32,7 @@
   #### #️⃣Forked Repositories#️⃣
   [![Github-Readme-Statistics](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Statistics&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/Github-Readme-Statistics)
   
+  [![Github-Readme-Streak-Stats](https://github-readme-stats-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Streak-Stats&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </details>
 
 
