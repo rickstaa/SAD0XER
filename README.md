@@ -4,7 +4,7 @@
 
 <!-- GitHub Statistics -->
 <details align="center">
-  <summary><b>📈GitHub Statistics📉</b></summary>
+  <summary><b>GitHub📊Statistics</b></summary>
 
 <!-- Github Statistics by Casper -->
   [![Github Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
@@ -23,21 +23,21 @@
 
 <!-- Top Repositories -->
 <details align="center">
-  <summary><b>⚛️My Top Repositories⚛️</b></summary>
+  <summary><b>My💠Top💠Repositories</b></summary>
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
   [![ALPHAit-JavaCourse](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14&border_color=2f353b)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
   [![EASY-TO-C0DE](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14&border_color=2f353b)](https://github.com/SAD0XER/EASY-TO-C0DE)
   <!--&theme=darcula-->
   
-  #### #️⃣Forked Repositories#️⃣
+  #### Forked#️⃣Repositories
   [![Github-Readme-Statistics](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Statistics&theme=github_dark&hide_border=&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/Github-Readme-Statistics)
 </details>
 
 
 <!-- Top Languages -->
 <details align="center">
-  <summary><b>🗣️Used Languages🗣️</b></summary>
+  <summary><b>Used👨🏻‍💻Languages</b></summary>
   
 <!-- GitHub Top Languages by Repository @Casper-->
   ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sad0xer&theme=github_dark)
@@ -53,7 +53,7 @@
 
 <!-- GitHub Commit Statistics -->
 <details align="center">
-  <summary><b>📊Commit Statistics📊</b></summary>
+  <summary><b>Commit📊Statistics</b></summary>
   
   <!-- GitHub Commit Statistics @Casper-->
   ![GitHub Commit Statistics](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sad0xer&theme=github_dark&utcOffset=8)
@@ -61,7 +61,7 @@
 
 <!-- About Me -->
 <details align="left"; open>
-  <summary><b>🎯About me🎯</b></summary>
+  <summary><b>About🎯me</b></summary>
   
   #### Hello, I am **😃SARVESH🤩**.
   
@@ -72,17 +72,15 @@
   - 💬 Ask me about **C**, **C++** and **java**.
   - 📫 **How to reach me:**
     - **LinkedIn:** [_@SAD0XER_](https://www.linkedin.com/in/sadcoder)
-    - **SoloLearn:** [_@SAD0XER_](https://www.sololearn.com/profile/18241219)
     - **Telegram:** [_@SAD0XER_](https://t.me/SAD0XER)
     - **Telegram Channel:** [_@PARA_C0DER_](https://t.me/PARA_C0DER)
 
   - 😄 Pronouns me as **सर्वेश** / SARVESH.
-  - 😂 **Fun fact:** _Everyone of knows, if they work hard, and follow their passion with consistency and persistence then they will succeed, but who cares, No one does that!_
 </details>
 
 <!-- Favorite Peoples and Organizations -->
 <details align="left">
-  <summary>🤩<b>My Favourites🤩</b></summary>
+  <summary><b>My🤩Favourites</b></summary>
   
   1. [**CodeWithHarry**](https://github.com/CodeWithHarry) ([Haris Ali Khan](https://github.com/haris989))
   2. [**Shradha Khapra**](https://github.com/shradha-khapra)
@@ -90,7 +88,7 @@
 </details>
 
 ---
-###### Statistics credit goes to: [**Anurag Hazra**](https://github.com/anuraghazra), [**vn7n24fzkq (Casper)**](https://github.com/vn7n24fzkq), [**DenverCoder1**](https://github.com/DenverCoder1), [**Ashutosh00710**](https://github.com/Ashutosh00710)
+###### Do you want README like me? Checkout these people : [**Anurag Hazra**](https://github.com/anuraghazra), [**vn7n24fzkq (Casper)**](https://github.com/vn7n24fzkq), [**DenverCoder1**](https://github.com/DenverCoder1), [**Ashutosh00710**](https://github.com/Ashutosh00710)
 ---
 <!--   [![alt_txt](img_src)](href) -->
 <!--
