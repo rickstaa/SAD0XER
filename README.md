@@ -60,7 +60,7 @@
 </details>
 
 <!-- About Me -->
-<details align="left"; open>
+<details align="left">
   <summary><b>About🎯me</b></summary>
   
   #### Hello, I am **😃SARVESH🤩**.
