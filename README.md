@@ -10,7 +10,7 @@
   [![Github Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
   
 <!-- @sad0xer's GitHub Statistics by anuraghazra-->
-  <!--[![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)](https://github.com/anuraghazra/github-readme-stats)-->
+  [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--   Github Profile Summary Card by Casper -->
   [![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
