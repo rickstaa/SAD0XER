@@ -10,7 +10,7 @@
   [![Github Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
   
 <!-- @sad0xer's GitHub Statistics by anuraghazra-->
-  [![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)](https://github.com/anuraghazra/github-readme-stats)-->
   
 <!--   Github Profile Summary Card by Casper -->
   [![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sad0xer&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
@@ -26,12 +26,12 @@
   <summary><b>My💠Top💠Repositories</b></summary>
   
   <!-- @sad0xer's GitHub Repositories by @anuraghazra-->
-  [![ALPHAit-JavaCourse](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14&border_color=2f353b)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
-  [![EASY-TO-C0DE](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14&border_color=2f353b)](https://github.com/SAD0XER/EASY-TO-C0DE)
+  <!--[![ALPHAit-JavaCourse](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=ALPHAit-JavaCourse&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14&border_color=2f353b)](https://github.com/SAD0XER/ALPHAit-JavaCourse)
+  [![EASY-TO-C0DE](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=EASY-TO-C0DE&theme=github_dark&hide_border=false&border_radius=30.0&title_color=bb5b14&border_color=2f353b)](https://github.com/SAD0XER/EASY-TO-C0DE)-->
   <!--&theme=darcula-->
   
   #### Forked#️⃣Repositories
-  [![Github-Readme-Statistics](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Statistics&theme=github_dark&hide_border=&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/Github-Readme-Statistics)
+  <!--[![Github-Readme-Statistics](https://github-readme-statistics-sad0xer.vercel.app/api/pin/?username=sad0xer&repo=Github-Readme-Statistics&theme=github_dark&hide_border=&border_radius=30.0&title_color=bb5b14)](https://github.com/SAD0XER/Github-Readme-Statistics)-->
 </details>
 
 
@@ -43,7 +43,7 @@
   ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sad0xer&theme=github_dark)
   
 <!-- @sad0xer's GitHub Top Languages by @anuraghazra-->
-  [![sad0xer's Top Most Used Languages](https://github-readme-statistics-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)](https://github.com/SAD0XER)
+  <!--[![sad0xer's Top Most Used Languages](https://github-readme-statistics-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)](https://github.com/SAD0XER)-->
 <!--&theme=tokyonight-->
   
 <!-- GitHub Top Languages by Commit @Casper-->
